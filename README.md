@@ -75,7 +75,8 @@ You requested instructions on how to get a Claude API Key:
   - Add real pixel art sprites mapping to the generated assets.
   - Extend the Q-table to track party formations or pack mentalities among enemies.
   - Add multiplayer capabilities by keeping the state synced across the Node.js server using WebSockets.
-##Screenshots of Gameplay
+
+## Screenshots of Gameplay
 <img width="1600" height="718" alt="WhatsApp Image 2026-11-03 at 13 59 56" src="https://github.com/user-attachments/assets/5808789a-62cf-4458-81c8-365fc6f2cb5b" />
 <img width="1600" height="722" alt="WhatsApp Image 2026-11-03 at 14 02 31" src="https://github.com/user-attachments/assets/85cb01fe-24f5-4d9b-b54e-d9a78cf5ac9f" />
 <img width="1600" height="727" alt="WhatsApp Image 2026-11-03 at 14 00 17" src="https://github.com/user-attachments/assets/f9ed306d-9d08-445c-aff3-71bdeaf15bb8" />
