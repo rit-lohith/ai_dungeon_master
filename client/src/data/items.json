@@ -1,0 +1,8 @@
+[
+  { "id": "iron_sword", "name": "Iron Sword", "type": "equipment", "effect": { "attack": 5 }, "rarity": "common", "icon": "🗡️" },
+  { "id": "health_potion", "name": "Health Potion", "type": "consumable", "effect": { "hp": 50 }, "rarity": "common", "icon": "🧪" },
+  { "id": "magic_ring", "name": "Magic Ring", "type": "equipment", "effect": { "defense": 3, "maxHp": 20 }, "rarity": "rare", "icon": "💍" },
+  { "id": "strength_potion", "name": "Strength Potion", "type": "consumable", "effect": { "attack": 10 }, "rarity": "rare", "icon": "💪", "isPowerUp": true, "duration": 5 },
+  { "id": "dragon_slayer", "name": "Dragon Slayer", "type": "equipment", "effect": { "attack": 25, "defense": 10 }, "rarity": "legendary", "icon": "🔪", "isPowerUp": false },
+  { "id": "guardian_shield", "name": "Guardian Shield", "type": "equipment", "effect": { "defense": 15, "maxHp": 100 }, "rarity": "legendary", "icon": "🛡️", "isPowerUp": false }
+]

@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment files
+.env
+*.env
+client/.env
+server/.env
+
+# Production build
+client/build/
+
+# Temporary & Log files
+out.txt
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Unity Project (exclude 2GB Unity cache from web repository)
+My project/

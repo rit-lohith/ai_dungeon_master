@@ -1,0 +1,3 @@
+[
+  { "id": "q1", "type": "kill", "title": "Clear the Rats", "objective": "Kill 3 goblins in the dungeon.", "target": "goblin", "amount": 3, "reward": { "gold": 50, "xp": 100 } }
+]

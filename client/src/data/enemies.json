@@ -1,0 +1,7 @@
+[
+  { "id": "goblin", "name": "Goblin", "hp": 40, "attack": 8, "defense": 4, "xp": 10, "icon": "👺", "dialogueType": "enemy" },
+  { "id": "skeleton", "name": "Skeleton", "hp": 60, "attack": 12, "defense": 6, "xp": 15, "icon": "💀", "dialogueType": "enemy" },
+  { "id": "orc", "name": "Orc Grunt", "hp": 100, "attack": 18, "defense": 8, "xp": 25, "icon": "👹", "dialogueType": "enemy" },
+  { "id": "guardian", "name": "Dungeon Guardian", "hp": 150, "attack": 25, "defense": 12, "xp": 50, "icon": "💂", "isGuardian": true, "guardRadius": 4, "dialogueType": "enemy" },
+  { "id": "boss", "name": "Dungeon Overlord", "hp": 400, "attack": 40, "defense": 20, "xp": 150, "icon": "👿", "isBoss": true, "dialogueType": "enemy" }
+]

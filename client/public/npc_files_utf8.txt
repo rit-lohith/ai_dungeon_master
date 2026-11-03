@@ -1,0 +1,10 @@
+﻿
+
+    Directory: D:\ai-dungeon-master\client\public\assets\sprites\npc
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        04-08-2025     14:07           8473 Swordsman_lvl2_Idle_with_shadow.png                                  
+
+

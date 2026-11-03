@@ -1,0 +1,14 @@
+{
+  "npc": [
+    "A fine day for adventure...",
+    "The dungeon is deep and dangerous.",
+    "Be careful out there, traveler."
+  ],
+  "enemy": [
+    "You dare challenge me?",
+    "This will be your final resting place!",
+    "Your bones will join the collection!",
+    "Prepare to face your destiny!",
+    "Fools always rush in where they don't belong!"
+  ]
+}

@@ -1,0 +1,6 @@
+[
+  { "id": "elder_sage", "name": "Elder Sage", "occupation": "Wizard", "personality": "Wise, cryptic, and prone to riddles.", "emotion": "neutral", "icon": "🧙‍♂️" },
+  { "id": "blacksmith", "name": "Gromm", "occupation": "Blacksmith", "personality": "Gruff, pragmatic, loves talking about steel.", "emotion": "friendly", "icon": "⚒️" },
+  { "id": "scared_villager", "name": "Timmy", "occupation": "Villager", "personality": "Panicked, desperate for help.", "emotion": "fearful", "icon": "😨" },
+  { "id": "swordsman_lvl2", "name": "Royal Guard", "occupation": "Guard", "personality": "Stiff, loyal, and watchful.", "emotion": "neutral", "icon": "🛡️" }
+]
